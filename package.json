@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-expressjs",
+  "version": "1.0.0",
+  "description": "Node crash course",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "author": "Liam Pyro",
+  "license": "ISC",
+  "dependencies": {
+    "node": "^19.8.1",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
